@@ -1,0 +1,25 @@
+.body {
+  position: absolute;
+  margin-top: 20%;
+  left: 25%;
+  right: 25%;
+}
+
+.periodicTable {
+  display: grid;
+  max-width: 80%;
+  margin-left: auto;
+}
+
+.row {
+  padding-left: 10px;
+}
+
+.h4 {
+  color: black;
+}
+
+.element {
+  height: 65px;
+  width: 65px;
+}
